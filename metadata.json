@@ -1,0 +1,5 @@
+{
+  "name": "Nano Banana Photo Remixer",
+  "description": "An application to remix personal photos with 100 creative presets using the Gemini 'Nano Banana' model. Features include various upload methods, preset management, aspect ratio selection, and a results gallery with download and re-generation options.",
+  "requestFramePermissions": []
+}
